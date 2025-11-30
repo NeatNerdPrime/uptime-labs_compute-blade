@@ -73,9 +73,9 @@ Below is a list of NVMe SSDs that have been tested by Uptime Lab and community m
 
 ## Raspberry Pi
 
-| Product                       | Model              | Controller      | Capacity | Tester                                          |
-| :---------------------------- | :----------------- | :-------------- | :------- | :---------------------------------------------- |
-| Raspberry Pi SSD (256GB)      | MZ9LQ256HBJD-00BVL | Samsung         | 256GB    | [remonlam](https://github.com/remonlam)         |
+| Product                       | Model              | Controller      | Capacity | Tested CM | Tester                                          |
+| :---------------------------- | :----------------- | :-------------- | :------- | :-------- | :---------------------------------------------- |
+| Raspberry Pi SSD (256GB)      | MZ9LQ256HBJD-00BVL | Samsung         | 256GB    | CM4 & CM5 | [remonlam](https://github.com/remonlam)         |
 
 
 ## Samsung
