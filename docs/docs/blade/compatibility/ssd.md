@@ -71,6 +71,14 @@ Below is a list of NVMe SSDs that have been tested by Uptime Lab and community m
 | :---------------------------- | :----------------- | :------------------- | :------- | :---------------------------------- |
 | PNY CS1030                    | M280CS1030-250-RB  | Phison PS5013-E13-31 | 250GB    | [pxpunx](https://github.com/pxpunx) |
 
+## Raspberry Pi
+
+| Product                       | Model                  | Controller                 | Capacity | Tested CM | Tester                                          |
+| :---------------------------- | :----------------------| :------------------------- | :------- | :-------- | :---------------------------------------------- |
+| Raspberry Pi SSD (256GB)      | MZ9LQ256HBJD-00BVL.    | Samsung                    | 256GB    | CM4 & CM5 | [remonlam](https://github.com/remonlam)         |
+| Raspberry Pi SSD (512GB)      | BIWIN CE430T5D100-512G | MaxioTech MAP1202 (Cougar) | 512GB    | CM5       | [remonlam](https://github.com/remonlam)         |
+
+
 ## Samsung
 
 | Product                       | Model              | Controller      | Capacity | Tester                                          |
